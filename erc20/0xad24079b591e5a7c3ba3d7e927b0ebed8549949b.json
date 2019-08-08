@@ -1,0 +1,19 @@
+{
+  "symbol": "HDC",
+  "address": "0xad24079b591e5a7c3ba3d7e927b0ebed8549949b",
+  "overview":{
+    "en": "The abbreviation of CASH is HDC, which is a digital currency based on the POC consensus.Use hard disk mining machine to dig ore, through the capacity certificate for HDC distribution.Plot writing is required in advance for hard disk mining machines involved in mining.HDC issued a total of 2.1 billion COINS, and the project party pre-dug 20% for the subsequent development of the main chain and the promotion of the whole ecological construction.The main chain of this project is planned to be online before September 2019. Currently, it is in the research and development stage, and many technical problems need to be solved, including BHD compatibility, Burst multiple dig, anti-helix attack, etc.Early stage parties issued 420m tokens in advance through ERC20.",
+    "zh": "CASH缩写HDC，是基于POC共识的数字货币。使用硬盘矿机挖矿，通过容量证明进行HDC的发行。参与挖矿的硬盘矿机需要提前进行Plot写盘。HDC总共发行21亿枚币，项目方预挖20%用于后续主链的开发和整个生态建设宣传。本项目计划2019年9月之前主链上线，目前在进行研发阶段，需要解决很多技术问题，包括兼容BHD、Burst的多挖、反Helix攻击等。早期项目方通过ERC20发行预挖的4.2亿代币。"
+  },
+  "email": "Email",
+  "website": "https://www.hdcash.co",
+  "whitepaper": "http://www.hdcash.co/HDCashWhitePater.pdf",
+  "state": "LOCKED | NORMAL",
+  "published_on": "2019-08-08",
+  "initial_price":{
+
+  },
+  "links": {
+    "microblog": "https://weibo.com/u/7251803785"
+  }
+}
